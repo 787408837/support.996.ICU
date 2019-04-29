@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__374 tech workers*__
+__373 tech workers*__
 
 签名，
 
-__374 名技术工作者*__
+__373 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -82,7 +82,6 @@ Supported by / 支持者:
 * Binary Wang (wangbin), Software Engineer
 * Bingyao Ma (马秉尧), Software Engineer, Adtalos
 * Bo Feng, Student, Southwest University of Science and Technology
-* Bofei Wang (王博飞), University of New South Wales, Sydney
 * Borja Canseco, Software Engineer, IBM
 * Boy Liu, Software Engineer, JiNan
 * Bryan Hughes, Senior Cloud Advocate, Microsoft
@@ -381,7 +380,6 @@ Supported by / 支持者:
 * Xing Qi, Web Developer, ChongQing.China
 * Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
 * Xinyi Liu, Software Engineer, ETU (Beijing) Network Technology Co., Ltd
-* Xiong Chaowei(熊超伟), Software Engineer, Guangzhou
 * Xu Gao, Undergraduate, Changchun University
 * Xu Kai, postgraduate, China University of Geosciences
 * Xudong Cai, Software Engineer, VeryStar
@@ -420,7 +418,6 @@ Supported by / 支持者:
 * Yuns Sun, Fontend Software Coder, Freelancer
 * Yutao Gu, Developer, Undergraduate student
 * Zachary Laborde, Software Developer, IBM
-* Zaijing Wang(王在京), Unity3d Game Client Developer, Jinggle Inc
 * ZedeX Zhao, Director of Product, PingAn Group
 * Zehao Chen(陈泽浩), Software Engineer, Enjoylife
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
@@ -441,3 +438,4 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
+* ShuShun Zhu(朱书顺),Physical education
